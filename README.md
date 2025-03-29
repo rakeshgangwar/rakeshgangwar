@@ -1,16 +1,34 @@
-## Hi there 👋
+## About Me
+I'm a passionate developer who loves building innovative solutions. Welcome to my GitHub profile!
 
-<!--
-**rakeshgangwar/rakeshgangwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I'm currently working on
+- Web development projects
+- Improving my coding skills
+- Contributing to open-source
 
-Here are some ideas to get you started:
+## 🌱 I'm currently learning
+- Advanced JavaScript frameworks
+- Cloud technologies
+- System design principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+- **Languages:** JavaScript, HTML/CSS, Python
+- **Frameworks:** React, Node.js
+- **Tools:** Git, VS Code, Docker
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakeshgangwar&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- Email: your.email@example.com
+
+## 👯 I'm looking to collaborate on
+Open source projects and interesting web applications
+
+## ⚡ Fun fact
+I can code for hours with the right music playing!
+
+---
+*Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate!*
