@@ -20,9 +20,9 @@ I'm a passionate developer who loves building innovative solutions. Welcome to m
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakeshgangwar&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rakeshgangwar01)
+- Twitter: [@YourTwitterHandle](https://twitter.com/rakesh_gangwar1)
+- Email: mail@rakeshgangwar.com
 
 ## 👯 I'm looking to collaborate on
 Open source projects and interesting web applications
