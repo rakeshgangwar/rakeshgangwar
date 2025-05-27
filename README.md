@@ -48,3 +48,5 @@ This project thrives on community contributions. Whether you're interested in ag
 
 ---
 *"The true potential of AI will be realized not through individual models, but through diverse ecosystems of specialized agents working in harmony."*
+
+![rakeshgangwar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakeshgangwar&theme=highcontrast&hide_border=true)
