@@ -4,7 +4,7 @@ I build **multi-agent systems that humans stay in charge of.**
 
 Agents that can act are easy now. Agents you'd let touch an invoice, a production host, or a customer's data are not — that takes state you can replay, authority that stays with a person, and an audit trail that survives the argument afterwards. Nearly everything below is a different angle on the same problem: **the boring, load-bearing parts that make autonomy safe to deploy.**
 
-📍 Manipal, India · 🌐 [rakeshgangwar.com](https://rakeshgangwar.com)
+🌏 Remote — India, IST · 🌐 [rakeshgangwar.com](https://rakeshgangwar.com)
 
 ---
 
