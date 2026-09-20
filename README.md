@@ -23,8 +23,9 @@ Built on **Temporal + BPMN + PydanticAI**, with swappable model providers per ag
 | | | |
 |---|---|---|
 | [**agentpod**](https://github.com/SuperJackfruitLabs/agentpod) | Fleet console for agent runtimes — filesystem, logs, terminal, health, lifecycle, provisioning, across machines and NAT boundaries. Attach-first, self-hostable. | *lit & steady* |
-| [**kaambaan**](https://github.com/SuperJackfruitLabs/kaambaan) | Multi-tenant Kanban board driving external agents through pipeline stages with human approval gates. Built on Cloudflare. | *wet paint* |
-| [**supermessage**](https://github.com/SuperJackfruitLabs/supermessage) | Cross-platform Matrix client for rooms where half the occupants are agents. Tauri 2 + matrix-rust-sdk + Svelte 5. | *half-lit* |
+| [**superpipeline**](https://github.com/SuperJackfruitLabs/superpipeline) | Multi-tenant Kanban board driving external agents (any harness, anywhere) through pipeline stages with human approval gates. Cloudflare Workers, Durable Objects, D1. | *lights on* |
+| [**supermessage**](https://github.com/SuperJackfruitLabs/supermessage) | Cross-platform Matrix client for rooms where half the occupants are agents. Shared Rust core, Tauri 2 + Svelte 5 desktop, SwiftUI iOS, Compose Android. | *half-lit* |
+| [**supermd**](https://github.com/SuperJackfruitLabs/supermd) | Native GPU-rendered Markdown editor built in Rust on GPUI. Plain CommonMark on disk, wiki links, backlinks, workspace graph. The lab's writing tool. | *wet paint* |
 
 ## 🧰 Tools I keep sharpened
 
@@ -44,7 +45,7 @@ Built on **Temporal + BPMN + PydanticAI**, with swappable model providers per ag
 
 ## 🛠️ Stack
 
-TypeScript · Python · Rust · Go · Temporal · BPMN · PydanticAI · Svelte & SvelteKit · React · Tauri 2 · Cloudflare Workers, Durable Objects, D1 · Bun + Hono · FastAPI · Postgres
+TypeScript · Python · Rust · Go · GPUI · Temporal · BPMN · PydanticAI · Svelte & SvelteKit · React · Tauri 2 · Cloudflare Workers, Durable Objects, D1 · Bun + Hono · FastAPI · Postgres
 
 ## 📫 Get in touch
 
