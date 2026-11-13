@@ -22,10 +22,17 @@ Built on **Temporal + BPMN + PydanticAI**, with swappable model providers per ag
 
 | | | |
 |---|---|---|
-| [**agentpod**](https://github.com/SuperJackfruitLabs/agentpod) | Fleet console for agent runtimes — filesystem, logs, terminal, health, lifecycle, provisioning, across machines and NAT boundaries. Attach-first, self-hostable. | *lit & steady* |
-| [**superpipeline**](https://github.com/SuperJackfruitLabs/superpipeline) | Multi-tenant Kanban board driving external agents (any harness, anywhere) through pipeline stages with human approval gates. Cloudflare Workers, Durable Objects, D1. | *lights on* |
-| [**supermessage**](https://github.com/SuperJackfruitLabs/supermessage) | Cross-platform Matrix client for rooms where half the occupants are agents. Shared Rust core, Tauri 2 + Svelte 5 desktop, SwiftUI iOS, Compose Android. | *half-lit* |
-| [**supermd**](https://github.com/SuperJackfruitLabs/supermd) | Native GPU-rendered Markdown editor built in Rust on GPUI. Plain CommonMark on disk, wiki links, backlinks, workspace graph. The lab's writing tool. | *wet paint* |
+| [**AgentPod**](https://github.com/SuperJackfruitLabs/agentpod) | Fleet console for agent runtimes — filesystem, logs, terminal, health, lifecycle, provisioning, across machines and NAT boundaries. Attach-first, self-hostable. | *lit & steady* |
+| [**SuperPipeline**](https://github.com/SuperJackfruitLabs/superpipeline) | Multi-tenant Kanban board driving external agents (any harness, anywhere) through pipeline stages with human approval gates. Cloudflare Workers, Durable Objects, D1. | *lights on* |
+| [**SuperDispatch**](https://github.com/SuperJackfruitLabs/superdispatch) | Decides which agent takes each card — by capability, load and track record — and records every decision with its reasons. Roster changes stay advice for a person. | *wet paint* |
+| [**SuperExchange**](https://github.com/SuperJackfruitLabs/superexchange) | Carries board gates, questions and stuck cards into encrypted Matrix rooms, and resolves them on the board as the person who answered. | *wet paint* |
+| [**SuperMessage**](https://github.com/SuperJackfruitLabs/supermessage) | Cross-platform Matrix client for rooms where half the occupants are agents. Shared Rust core, Tauri 2 + Svelte 5 desktop, SwiftUI iOS, Compose Android. | *half-lit* |
+| [**SuperLibrary**](https://github.com/SuperJackfruitLabs/superlibrary) | The memory of the stack: what agents made and what work was done, for agents to consult and people to browse. | *lights on* |
+| [**SuperWitness**](https://github.com/SuperJackfruitLabs/superwitness) | Observability and evaluation for agent fleets — what an agent did, how the product ran, whether the work was good — joined on one run. | *half-lit* |
+| [**SuperToolkit**](https://github.com/SuperJackfruitLabs/supertoolkit) | A credential broker: the agent asks for an effect by name and never holds the secret that causes it. | *wet paint* |
+| [**Salaam**](https://github.com/SuperJackfruitLabs/salaam) | The lab's own agent harness, built on Pi: persistent sessions with durable state. | *half-lit* |
+| [**Treaty**](https://github.com/SuperJackfruitLabs/treaty) | The suite's contracts as code — event schemas, fixtures and the relay that carries them. | *lights on* |
+| [**SuperMD**](https://github.com/SuperJackfruitLabs/supermd) | Native GPU-rendered Markdown editor built in Rust on GPUI. Plain CommonMark on disk, wiki links, backlinks, workspace graph. The lab's writing tool. | *wet paint* |
 
 ## 🧰 Tools I keep sharpened
 
